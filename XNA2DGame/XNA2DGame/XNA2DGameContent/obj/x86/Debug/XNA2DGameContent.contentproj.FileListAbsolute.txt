@@ -1,0 +1,17 @@
+C:\Users\K013A1400\Desktop\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\個人作業用\作業データ\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\個人作業用\作業データ\Stage.cs定義\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\個人作業用\作業データ\0428 移動範囲の制限まで\Stage.cs定義\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\個人作業用\作業データ\Step_2_× 拡大縮小表示\Step_1_〇 移動範囲の制限まで\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\個人作業用\作業データ\Step_2_× 拡大縮小表示\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\Step_3_△ 移動方向の正規化\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\Step_4_○　zBuffer導入\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\個人作業用\作業データ\Step_4_× Z座標導入\Step_4_○　zBuffer導入\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\個人作業用\作業データ\Step_4_× Z座標導入\Step_4_○　zBuffer導入 - コピー\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\個人作業用\作業データ\Step_4_△ Z座標導入\Step_4_○　zBuffer導入 - コピー\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\個人作業用\作業データ\Step_4.5_△ Z座標導入\Step_4_○　zBuffer導入 - コピー\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\個人作業用\作業データ\Step_5_× コンテンツのロードと解放のタイミング\Step_4_○　zBuffer導入 - コピー\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\個人作業用\作業データ\Step_6_× ファイル管理変更\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\個人作業用\作業データ\Step_7_× 縦方向の移動の正規化\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\K013A1400\Desktop\個人作業用\作業データ\Step_8_× フェードとポーズ導入\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache
+C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\XNA2DGameContent.contentprojResolveAssemblyReference.cache

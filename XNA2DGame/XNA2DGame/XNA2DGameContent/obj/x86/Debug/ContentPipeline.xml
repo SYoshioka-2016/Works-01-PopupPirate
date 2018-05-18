@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>graphic\character\red.BMP</Source>
+      <Name>graphic\character\red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\character\red.xnb</Output>
+      <Time>2014-04-27T15:45:51.7353975+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\fade.bmp</Source>
+      <Name>graphic\fade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\fade.xnb</Output>
+      <Time>2014-05-19T13:39:01.3105827+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\pause\pause_back.png</Source>
+      <Name>graphic\pause\pause_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\pause\pause_back.xnb</Output>
+      <Time>2014-07-14T15:02:59.4279431+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\pause\pause_menu_back.png</Source>
+      <Name>graphic\pause\pause_menu_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\pause\pause_menu_back.xnb</Output>
+      <Time>2014-07-14T15:02:59.4319469+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\pause\pause_menu_exit.png</Source>
+      <Name>graphic\pause\pause_menu_exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\pause\pause_menu_exit.xnb</Output>
+      <Time>2014-07-14T15:02:59.4369506+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\pause\pause_menu_title.png</Source>
+      <Name>graphic\pause\pause_menu_title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\pause\pause_menu_title.xnb</Output>
+      <Time>2014-07-14T15:02:59.4409525+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\pause\pause_back_black.png</Source>
+      <Name>graphic\pause\pause_back_black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\pause\pause_back_black.xnb</Output>
+      <Time>2014-07-14T15:09:53.4881673+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\stage\stage.png</Source>
+      <Name>graphic\stage\stage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\stage\stage.xnb</Output>
+      <Time>2014-08-27T01:53:30.7571898+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\stage\stage_back.png</Source>
+      <Name>graphic\stage\stage_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\stage\stage_back.xnb</Output>
+      <Time>2014-08-27T01:53:31.7194758+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\character\player.png</Source>
+      <Name>graphic\character\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\character\player.xnb</Output>
+      <Time>2014-08-27T06:26:47.8727353+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\character\ball.png</Source>
+      <Name>graphic\character\ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\character\ball.xnb</Output>
+      <Time>2014-09-03T10:28:00.9098957+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\title\title_back.jpg</Source>
+      <Name>graphic\title\title_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\title\title_back.xnb</Output>
+      <Time>2014-09-03T10:29:12.2533861+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\text\number.png</Source>
+      <Name>graphic\text\number</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\text\number.xnb</Output>
+      <Time>2014-09-03T10:35:50.0560209+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\title\title_text_pop-up_pirate.png</Source>
+      <Name>graphic\title\title_text_pop-up_pirate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\title\title_text_pop-up_pirate.xnb</Output>
+      <Time>2014-09-03T10:35:50.0199965+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\character\shadow.png</Source>
+      <Name>graphic\character\shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\character\shadow.xnb</Output>
+      <Time>2014-09-04T03:36:23.4265961+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\text\text_finish.png</Source>
+      <Name>graphic\text\text_finish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\text\text_finish.xnb</Output>
+      <Time>2014-09-04T04:48:07.9422738+09:00</Time>
+    </Item>
+    <Item>
+      <Source>graphic\text\text_push_space.png</Source>
+      <Name>graphic\text\text_push_space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\graphic\text\text_push_space.xnb</Output>
+      <Time>2014-09-04T04:49:49.6782892+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\bgm\bgm_ending.wav</Source>
+      <Name>sound\bgm\bgm_ending</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\sound\bgm\bgm_ending.xnb</Output>
+      <Time>2014-08-27T02:39:10.114796+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\bgm\bgm_gameplay.wav</Source>
+      <Name>sound\bgm\bgm_gameplay</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\sound\bgm\bgm_gameplay.xnb</Output>
+      <Time>2014-08-27T02:39:10.2465171+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\bgm\bgm_title.wav</Source>
+      <Name>sound\bgm\bgm_title</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\sound\bgm\bgm_title.xnb</Output>
+      <Time>2014-08-27T02:39:10.4750795+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\se\se_splash.wav</Source>
+      <Name>sound\se\se_splash</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\sound\se\se_splash.xnb</Output>
+      <Time>2014-09-03T12:41:08.7258365+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\se\se_hit.wav</Source>
+      <Name>sound\se\se_hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\sound\se\se_hit.xnb</Output>
+      <Time>2014-09-04T06:01:18.8645126+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\se\se_shot.wav</Source>
+      <Name>sound\se\se_shot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\sound\se\se_shot.xnb</Output>
+      <Time>2014-09-04T06:01:18.8995359+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\授業用  保存先\2014_2学年\H26_01前期\H26_キャリアデザイン3,4(HR)\個人作業用\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-03-10T19:06:35.1458788+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
